@@ -2,7 +2,7 @@
 
 ## Description
 
-This project includes a refactoring of Horiseon to improve the functionality and accessibility of the website. In this project, I improve the existing code and fix minor semantic issues. I simplify code within the CSS and ensured that the project operated successfully. 
+This project includes a refactoring of Horiseon to improve the functionality and accessibility of the website. In this project, I improve the existing code and fix minor semantic issues. I simplify code within the CSS and ensure that the project operates successfully. 
 
 ## Visuals
 
