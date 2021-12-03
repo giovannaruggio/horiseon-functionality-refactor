@@ -8,6 +8,9 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Correct selectors to corresponding 
+to the proper elements*/
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -91,6 +94,10 @@ p {
     color: #ffffff;
 }
 
+/*Combine benefit-lead,
+benefit-brand, beneit-cost
+to organize structure*/
+
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -101,6 +108,11 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/*Combine search-engine-optimization,
+online-reputation-management, 
+social-media-marketing
+to organize structure*/
 
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
